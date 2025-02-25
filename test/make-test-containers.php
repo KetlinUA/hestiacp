@@ -14,7 +14,7 @@
 # CONFIG HOST STEPS:
 #   export SHARED_HOST_FOLDER="/home/myuser/projectfiles"
 #   mkdir -p $SHARED_HOST_FOLDER
-#   cd $SHARED_HOST_FOLDER && git clone https://github.com/hestiacp/hestiacp.git && cd hestiacp && git checkout ..branch..
+#   cd $SHARED_HOST_FOLDER && git clone https://github.com/KetlinUA/hestiacp.git && cd hestiacp && git checkout ..branch..
 #
 
 /*

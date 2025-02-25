@@ -4,7 +4,7 @@
 
 <h2 align="center">A lightweight and powerful control panel for the modern web</h2>
 
-<p align="center"><strong>Latest stable release:</strong> Version 1.8.12 | <a href="https://github.com/hestiacp/hestiacp/blob/release/CHANGELOG.md">View Changelog</a></p>
+<p align="center"><strong>Latest stable release:</strong> Version 1.8.12 | <a href="https://github.com/KetlinUA/hestiacp/blob/release/CHANGELOG.md">View Changelog</a></p>
 
 <p align="center">
 	<a href="https://www.hestiacp.com/">HestiaCP.com</a> |
@@ -14,8 +14,8 @@
 	<a href="https://drone.hestiacp.com/hestiacp/hestiacp">
 		<img src="https://drone.hestiacp.com/api/badges/hestiacp/hestiacp/status.svg?ref=refs/heads/main" alt="Drone Status"/>
 	</a>
-	<a href="https://github.com/hestiacp/hestiacp/actions/workflows/lint.yml">
-		<img src="https://github.com/hestiacp/hestiacp/actions/workflows/lint.yml/badge.svg" alt="Lint Status"/>
+	<a href="https://github.com/KetlinUA/hestiacp/actions/workflows/lint.yml">
+		<img src="https://github.com/KetlinUA/hestiacp/actions/workflows/lint.yml/badge.svg" alt="Lint Status"/>
 	</a>
 </p>
 
@@ -111,13 +111,13 @@ apt-get upgrade
 ## Issues & Support Requests
 
 - If you encounter a general problem while using Hestia Control Panel and need help, please [visit our forum](https://forum.hestiacp.com/) to search for potential solutions or post a new thread where community members can assist.
-- Bugs and other reproducible issues should be filed via GitHub by [creating a new issue report](https://github.com/hestiacp/hestiacp/issues) so that our developers can investigate further. Please note that requests for support will be redirected to our forum.
+- Bugs and other reproducible issues should be filed via GitHub by [creating a new issue report](https://github.com/KetlinUA/hestiacp/issues) so that our developers can investigate further. Please note that requests for support will be redirected to our forum.
 
 **IMPORTANT: We _cannot_ provide support for requests that do not describe the troubleshooting steps that have already been performed, or for third-party applications not related to Hestia Control Panel (such as WordPress). Please make sure that you include as much information as possible in your forum posts or issue reports!**
 
 ## Contributions
 
-If you would like to contribute to the project, please [read our Contribution Guidelines](https://github.com/hestiacp/hestiacp/blob/release/CONTRIBUTING.md) for a brief overview of our development process and standards.
+If you would like to contribute to the project, please [read our Contribution Guidelines](https://github.com/KetlinUA/hestiacp/blob/release/CONTRIBUTING.md) for a brief overview of our development process and standards.
 
 ## Copyright
 
@@ -135,4 +135,4 @@ If you would like to contribute to the project, please [read our Contribution Gu
 
 ## License
 
-Hestia Control Panel is licensed under [GPL v3](https://github.com/hestiacp/hestiacp/blob/release/LICENSE) license, and is based on the [VestaCP](https://vestacp.com/) project.<br>
+Hestia Control Panel is licensed under [GPL v3](https://github.com/KetlinUA/hestiacp/blob/release/LICENSE) license, and is based on the [VestaCP](https://vestacp.com/) project.<br>

@@ -35,7 +35,7 @@ All notable changes to this project will be documented in this file.
 ### Bug fixes
 
 - Include missed changes
-- Include <https://github.com/hestiacp/hestiacp/blob/main/install/upgrade/manual/secure_php.sh>
+- Include <https://github.com/KetlinUA/hestiacp/blob/main/install/upgrade/manual/secure_php.sh>
 
 ## [1.8.9] - Service release
 
@@ -1954,8 +1954,8 @@ apt update && apt upgrade
 
 -
 
-[1.0.4]: https://github.com/hestiacp/hestiacp/releases/tag/1.0.4
-[1.0.3]: https://github.com/hestiacp/hestiacp/releases/tag/1.0.3
-[1.0.1]: https://github.com/hestiacp/hestiacp/releases/tag/1.0.1
-[1.0.0-190618]: https://github.com/hestiacp/hestiacp/releases/tag/1.0.0-190618
-[0.9.8-28]: https://github.com/hestiacp/hestiacp/releases/tag/0.9.8-28
+[1.0.4]: https://github.com/KetlinUA/hestiacp/releases/tag/1.0.4
+[1.0.3]: https://github.com/KetlinUA/hestiacp/releases/tag/1.0.3
+[1.0.1]: https://github.com/KetlinUA/hestiacp/releases/tag/1.0.1
+[1.0.0-190618]: https://github.com/KetlinUA/hestiacp/releases/tag/1.0.0-190618
+[0.9.8-28]: https://github.com/KetlinUA/hestiacp/releases/tag/0.9.8-28
